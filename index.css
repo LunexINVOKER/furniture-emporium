@@ -1,0 +1,69 @@
+body{
+  background-color:teal;
+}
+
+.card{
+  background-color:darkolivegreen;
+  padding: 20px 50px;
+  margin: 5px 10px 1px 1px; 
+  font-family: 'Times New Roman', Times, serif;
+}
+.add-to-cart{
+  background-color:lightcoral;
+  padding: 5px 50px;
+  margin: 5px 10px 1px 1px; 
+  cursor: pointer;
+}
+
+
+
+.card-2{
+  background-color:cyan;
+  padding: 20px 50px;
+  margin: 5px 10px 1px 1px; 
+  font-family:'Courier New', Courier, monospace;
+}
+.add-to-cart-2{
+  background-color:wheat;
+  padding: 5px 50px;
+  margin: 5px 10px 1px 1px; 
+  cursor: pointer;
+}
+
+
+
+.card-3{
+  background-color:lightsalmon;
+  padding: 20px 50px;
+  margin: 5px 10px 1px 1px; 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.add-to-cart-3{
+  background-color:whitesmoke;
+  padding: 5px 50px;
+  margin: 5px 10px 1px 1px; 
+  cursor: pointer;
+}
+
+
+.add-to-cart:hover{
+background-color: blue;
+}
+
+.add-to-cart-2:hover{
+background-color: blue; 
+}
+
+.add-to-cart-3:hover{
+background-color: blue;
+}
+
+.add-to-cart,
+.add-to-cart-2,
+.add-to-cart-3{
+  border-radius: 7.5px; border: 2px solid black;
+}
+
+.price{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
